@@ -119,6 +119,7 @@ node scripts/qa-motion.mjs [--lang ar]        # every scroll animation: reveal �
 node scripts/qa-materials.mjs                 # each material sample frames its real component
 node scripts/qa-ar.mjs                        # AR compare: pointer tracking, parallax latency, touch, reversal
 node scripts/qa-intro.mjs --tag intro         # prologue → Enter → hero: progress, long tasks, audio
+node scripts/smoke-live.mjs --base https://parall-01.vercel.app   # deployed site: audio, scroll, AR, materials, configurator, mobile
 ```
 Results are written to `qa/` (not committed).
 </details>
