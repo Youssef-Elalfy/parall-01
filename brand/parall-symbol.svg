@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 64" role="img" aria-labelledby="title desc">
+  <title id="title">PARALL concept symbol</title>
+  <desc id="desc">Original minimalist double-lens symbol with a subtle optical cyan bridge</desc>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M6 15 Q7 10 15 10 H53 Q61 10 61 18 V39 Q60 49 50 50 H23 Q12 50 10 40 Z" stroke="#BFC7D1" stroke-width="4"/>
+    <path d="M67 18 Q67 10 75 10 H113 Q121 10 122 15 L118 40 Q116 50 105 50 H78 Q68 49 67 39 Z" stroke="#BFC7D1" stroke-width="4"/>
+    <path d="M61 23 Q64 19 67 23" stroke="#8FE7FF" stroke-width="3"/>
+    <path d="M14 18 Q28 14 45 16 M77 16 Q96 14 114 18" stroke="#8FE7FF" stroke-opacity=".58" stroke-width="1.8"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" role="img" aria-labelledby="title desc">
+  <title id="title">PARALL / 01 wordmark concept</title>
+  <desc id="desc">Editable SVG typographic direction; use Syne or a custom final wordmark in production</desc>
+  <rect width="600" height="120" rx="16" fill="#0B0E14"/>
+  <text x="34" y="83" fill="#F3F1EB" font-family="Syne,Inter,Arial,sans-serif" font-weight="800" font-size="69" letter-spacing="-2">PARALL</text>
+  <path d="M403 30 L370 93" stroke="#8FE7FF" stroke-width="3"/>
+  <text x="422" y="81" fill="#BFC7D1" font-family="Inter,Arial,sans-serif" font-weight="500" font-size="46" letter-spacing="-1">01</text>
+  <circle cx="557" cy="37" r="5" fill="#FF5B43"/>
+</svg>

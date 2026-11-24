@@ -1,0 +1,55 @@
+# ── Dependencies / build output ─────────────────────────────────────────────
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# ── Environment, credentials, local tooling state ───────────────────────────
+.env*
+!.env.example
+.vercel/
+.claude/
+.impeccable/
+.playwright-mcp/
+.vscode/
+.idea/
+*.pem
+.DS_Store
+Thumbs.db
+*.log
+
+# ── Internal research (not redistributable) ─────────────────────────────────
+# Inspiration reels and their stills are for internal research only.
+references/
+# Owner's working screenshots and issue notes
+screenshots/
+PARALL_Visual_Repair_Kit/
+
+# ── Internal working briefs / agent instructions (kept locally, not published)
+MASTER_PROMPT.md
+MASTER_REPAIR_PROMPT.md
+ISSUES.md
+CLAUDE.md
+AGENTS.md
+START_PROMPT_PASTE_IN_CLAUDE.txt
+README_START_HERE.md
+README_START_HERE_AR.md
+PROJECT_HANDOFF_SUMMARY.md
+ASSET_CREDITS_TEMPLATE.md
+TASKS.md
+docs/0*.md
+docs/1*.md
+
+# ── Generated artefacts ─────────────────────────────────────────────────────
+# QA screenshots, traces, recordings (re-create with scripts/qa-*.mjs)
+qa/
+# rendered soundtrack masters (re-create with node audio/compose.mjs)
+audio/out/
+# Blender autosaves and the large comparison render set
+*.blend1
+*.blend2
+__pycache__/
+blender/renders/compare/

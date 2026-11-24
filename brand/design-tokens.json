@@ -1,0 +1,30 @@
+{
+  "project": "PARALL / 01",
+  "tagline": "See Beyond Reality.",
+  "color": {
+    "obsidian": "#0B0E14",
+    "ivory": "#F3F1EB",
+    "titanium": "#BFC7D1",
+    "graphite": "#6E7480",
+    "cyan": "#8FE7FF",
+    "coral": "#FF5B43"
+  },
+  "font": {
+    "englishDisplay": "Syne",
+    "englishBody": "Inter",
+    "arabicDisplayAndBody": "Tajawal"
+  },
+  "finishes": ["Titanium", "Onyx", "Frost"],
+  "lensTints": ["Clear", "Ocean", "Ember"],
+  "locale": {
+    "primary": "en",
+    "supported": ["en", "ar"],
+    "arabicDirection": "rtl"
+  },
+  "experience": {
+    "pageCount": 1,
+    "storyActs": 8,
+    "soundDefault": "off",
+    "fictionalProduct": true
+  }
+}
